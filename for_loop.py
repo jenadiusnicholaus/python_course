@@ -31,7 +31,7 @@ for num3 in range(10,20, 2):
  of item in imaginary shoping cart
  """ 
 
-prices = [ 1000, 2000, 3000]
+prices = [ 1000, 2000, 3000,4000,]
 
 total = 0
 for price in prices:
