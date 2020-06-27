@@ -25,7 +25,7 @@ for num1 in range(2,10):
 for num3 in range(10,20, 2):
 	print(num3) 
 
- """
+"""
  Write a program to 
  calculate the total price 
  of item in imaginary shoping cart
@@ -62,3 +62,17 @@ for x_count in numbers:
 
 for x_count in numbers:
 	print('*' * x_count)
+
+
+
+# 
+# How to create your own templary database
+database = []
+for count in range(3):
+	my_number = input("Enter number : ")
+	
+	for num1 in my_number:
+		database += num1 + " "
+
+
+print(database)
