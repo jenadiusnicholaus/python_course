@@ -24,6 +24,7 @@ number3 = int(input("Enterb number ; "))
 
 my_calculator = My_caculator(number1, number3)
 print(my_calculator.do_add())
-print(my_calculator.do_sub())
+print(my_calculator.do_sub( ))
 print(my_calculator.do_mult())
 print(my_calculator.do_divide())
+ 

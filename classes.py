@@ -13,10 +13,11 @@ class Point:
 		print(f'x and y exis is {self.x, self.y}')
 
 
-# calling an objects 
+# calling an objects
 
-# What is an object  
-#                   is instance of the class
+# What is an object
+
+# is instance of the class
 
 
 point1 = Point(110,198)
