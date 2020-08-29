@@ -19,3 +19,4 @@ z = number[2]
 x, y, z = number
 
 print(x)
+ 
